@@ -3,7 +3,9 @@
 
 
 My stack is:
-#E34F26
+<br>
+<img src="https://img.shields.io/badge/HTML-777?style=for-the-badge&logo=html5&logoColor=orange"/>
+
 <!--
 **taratunindenys/taratunindenys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
