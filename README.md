@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+
+
+My stack is:
+#E34F26
 <!--
 **taratunindenys/taratunindenys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
