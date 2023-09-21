@@ -3,10 +3,12 @@
 
 
 My stack is:
-<br>
-<img src="https://img.shields.io/badge/HTML-777?style=for-the-badge&logo=html5&logoColor=orange"/>
-<img src="https://img.shields.io/badge/CSS-777?style=for-the-badge&logo=css3&logoColor=blue"/>
-<img src="https://img.shields.io/badge/JS-777?style=for-the-badge&logo=javascript&logoColor=yellow"/>
+
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="html5" alt="html5" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="css" alt="css" width="40" height="40"/>
+</div>
 
 <!--
 **taratunindenys/taratunindenys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
